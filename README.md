@@ -8,6 +8,8 @@
 
 This project demonstrates how to classify SMS messages as **spam** or **ham** (not spam) using **Natural Language Processing (NLP)** and **Machine Learning**. The pipeline includes data preprocessing, feature extraction with TF-IDF, training a **Multinomial Naive Bayes** model, evaluating performance, and making predictions on real-time messages.
 
+![SMS Spam Detection](assets/sms_spam.jpg)
+
 ---
 
 ## Dataset
